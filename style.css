@@ -1,0 +1,69 @@
+
+
+body {
+    background-color: #71F79F;
+    margin: 0;
+    padding: 0;
+}
+
+/* Element Selector: Styling the main heading (h1) */
+
+#h1 {
+    color: palegoldenrod;
+    background-color: #3DD6D0;
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    color: Navy;
+    background-color: #3DD6D0;
+}
+P {
+    color: khaki;
+    background-color: #15B097;
+}
+/* Class selectors */
+ul {
+    color: black;
+}
+
+ .highlight {
+    background-color: lightyellow;
+}
+
+.headers {
+    font-family: "Matemasie", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 25px;
+    text-align: center;
+    color: navy;
+}
+
+.New-Amsterdam {
+    font-family: "New Amsterdam", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#emphasis {
+    background-color: lightgoldenrodyellow;
+    color: red;
+    font-size: 30px;
+}
+.Matemasie {
+font-family: "Matemasie", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} 
+
+#demo {
+    text-align: center;
+   font-family: "Matemasie", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 25px;
+}
+
+
+/* ID Selectors */

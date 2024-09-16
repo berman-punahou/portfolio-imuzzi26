@@ -1,0 +1,29 @@
+#Welcome {
+	Font-size: 75px;
+	text-align: center;
+}
+
+body {
+	Background-color: #408387;
+}
+
+#aboutm {
+	font-size: 50px;
+	text-align: center;
+	color:#ce4123;
+}
+
+#aboutmep {
+	text-align: center;
+	color: #DDAD1D;
+}
+
+.projectlink {
+	color:lightskyblue;
+}
+
+#myprojects {
+	text-align: center;
+	font-size: 50px;
+	color: #ce4123;
+}
